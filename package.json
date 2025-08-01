@@ -10,7 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@perawallet/connect": "^1.4.2",
     "@tailwindcss/postcss": "^4.1.11",
+    "algosdk": "^3.3.1",
     "postcss": "^8.5.6",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
